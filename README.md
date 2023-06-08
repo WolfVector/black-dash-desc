@@ -27,7 +27,7 @@ Now that you have the broker configured, you just need to add the subscribers. C
 ![Black Dash Subscribers](/img/sub.JPG)
 <br />
 
-And then you will be able to add the subscriber by setting the MQTT **topic**, in that way, Black Dash is able to receive the data from the sensor. And as you can see, you will have the ability to set the units and the title of the values. Once you have captured the information, you save it and then you will have your new sensor on the dashboard.
+And then you will be able to add the subscriber by setting the MQTT **topic**, in that way, Black Dash is able to receive the data from the sensor. You will also have the ability to set the units and the title of the values. Once you have captured the information, you save it and then you will have your new sensor on the dashboard.
 ![Black Dash Subscribers](/img/new_sub.JPG)
 
 ![Black Dash Subscribers](/img/new_sub_dash.jpg)
